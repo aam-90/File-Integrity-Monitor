@@ -1,0 +1,16 @@
+[
+    {
+        "timestamp": "2026-09-13 11:39:30",
+        "file": "test_data\\new_file.txt",
+        "event": "MODIFIED",
+        "severity": "HIGH",
+        "reason": "SHA-256 hash does not match the baseline"
+    },
+    {
+        "timestamp": "2026-09-13 11:39:30",
+        "file": "test_data\\sample.txt",
+        "event": "MODIFIED",
+        "severity": "HIGH",
+        "reason": "SHA-256 hash does not match the baseline"
+    }
+]
